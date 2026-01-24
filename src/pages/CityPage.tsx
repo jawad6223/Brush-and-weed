@@ -45,7 +45,7 @@ export default function CityPage() {
         </p>
         <a
           onClick={handleQuoteClick}
-          className="bg-green-700 hover:bg-green-800 text-white font-semibold px-6 py-3 rounded-md shadow-md transition-all duration-300"
+          className="bg-green-700 hover:bg-green-800 text-white font-semibold px-6 py-3 rounded-md shadow-md transition-all duration-300 cursor-pointer"
         >
           Request a Free Quote
         </a>
@@ -81,7 +81,7 @@ export default function CityPage() {
         </p>
         <a
           onClick={handleQuoteClick}
-          className="bg-green-700 hover:bg-green-800 text-white font-semibold px-8 py-3 rounded-md shadow-md transition-all duration-300"
+          className="bg-green-700 hover:bg-green-800 text-white font-semibold px-8 py-3 rounded-md shadow-md transition-all duration-300 cursor-pointer"
         >
           Book Your Service Today
         </a>
