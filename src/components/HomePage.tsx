@@ -553,14 +553,14 @@ export default function HomePage() {
                         <Phone className="h-6 w-6 text-green-800 flex-shrink-0 mt-1" />
                         <div>
                           <p className="font-semibold text-gray-900">Phone</p>
-                          <p className="text-gray-600">(541) 555-GOAT</p>
+                          <p className="text-gray-600">(541) 316-8716</p>
                         </div>
                       </div>
                       <div className="flex items-start space-x-4">
                         <Mail className="h-6 w-6 text-green-800 flex-shrink-0 mt-1" />
                         <div>
                           <p className="font-semibold text-gray-900">Email</p>
-                          <p className="text-gray-600">info@centraloregongoats.com</p>
+                          <p className="text-gray-600">centraloregonweedeaters@gmail.com</p>
                         </div>
                       </div>
                       <div className="flex items-start space-x-4">
